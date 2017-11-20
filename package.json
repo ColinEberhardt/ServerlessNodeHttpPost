@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "run:local": "serverless invoke local --function hello",
+    "run": "serverless invoke --function hello"
+  }
+}
