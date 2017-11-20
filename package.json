@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "run:local": "serverless invoke local --function hello",
-    "run": "serverless invoke --function hello"
+    "lambda:local": "serverless invoke local --function hello",
+    "lambda": "serverless invoke --function hello"
   }
 }
